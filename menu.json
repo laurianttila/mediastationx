@@ -3,7 +3,7 @@
     "logoSize": "small",
     "background": "http://laurianttila.github.io/msx/data/tw_test.jpeg", 
     "menu": [{
-      "title": "TWFI Web",
+      "label": "TWFI",
       "icon": "sx-white-soft:computer",
       "data": "https://laurianttila.github.io/msx/data/example.json"
       },
@@ -61,7 +61,6 @@
                     "layout": "0,0,3,2",
                     "color": "msx-glass",
                     "imageFiller": "cover",
-                    "action": "image:context"
                 },
                 "items": [{
                         "image": "https://s7d1.scene7.com/is/image/thoughtworks/ab_50-50_brand_02:1440?wid=719&hei=600&qlt=90%2C0&resMode=bicub&op_usm=1.75%2C0.3%2C2%2C0",
