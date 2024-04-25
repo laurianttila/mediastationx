@@ -11,7 +11,7 @@ o{
                     "titleHeader": "Welcome to",
                     "title": "Tw Helsinki",
                     "titleFooter": "Enjoy!",                 
-                    "image": "http://msx.benzac.de/img/test.jpg",
+                    "image": "http://laurianttila.github.io/msx/img/tw_test.jpeg",
                     "imageFiller": "height-left"
                 }, {
                     "type": "button",
