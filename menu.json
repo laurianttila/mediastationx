@@ -4,8 +4,7 @@
       "title": "TWFI Web",
       "icon": "sx-white-soft:computer",
       "data": "https://laurianttila.github.io/msx/data/example.json"
-      }
-    },
+      },
         {
             "icon": "movie",
             "label": "My Example Movies",
