@@ -53,7 +53,7 @@
             }
         }, {
             "icon": "image",
-            "label": "My Example Images",
+            "label": "Tw brand",
             "data": {
                 "type": "pages",
                 "template": {
@@ -64,11 +64,12 @@
                     "action": "image:context"
                 },
                 "items": [{
-                        "image": "http://msx.benzac.de/img/bg1.jpg"                      
+                        "image": "https://s7d1.scene7.com/is/image/thoughtworks/ab_50-50_brand_02:1440?wid=719&hei=600&qlt=90%2C0&resMode=bicub&op_usm=1.75%2C0.3%2C2%2C0",
+                        "duration": 5
                     }, {
-                        "image": "http://msx.benzac.de/img/bg2.jpg"                       
+                        "image": "https://s7d1.scene7.com/is/image/thoughtworks/ab_50-50_brand_04:1440?wid=719&hei=600&qlt=90%2C0&resMode=bicub&op_usm=1.75%2C0.3%2C2%2C0"                       
                     }, {
-                        "image": "http://msx.benzac.de/img/bg3.jpg"                       
+                        "image": "https://investors.thoughtworks.com/sites/g/files/knoqqb85736/themes/site/nir_pid5304/dist/images/banner/ir_banner2_1800.jpg"                       
                     }]
             }
         }]
