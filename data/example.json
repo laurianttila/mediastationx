@@ -1,6 +1,7 @@
 {
     "type": "pages",
     "headline": "Types",
+    "focus": false,
     "pages": [{    
             "items": [{
                     "type": "teaser",
