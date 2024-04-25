@@ -1,12 +1,12 @@
 {
     "headline": "Thoughtworks",
     "menu": [{
-      "iitle": "Home",
-      "icon": "path_to_home_icon.png",
+      "iitle": "TWFI Web",
+      "icon": "sx-white-soft:movie",
       "action": {
         "type": "open",
         "data": {
-          "Page": "path_to_your_custom_home.html"
+          "Page": "https://www.thoughtworks.com/about-us/locations/finland"
         }
       }
     },
