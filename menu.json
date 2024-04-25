@@ -3,11 +3,7 @@
     "menu": [{
       "title": "TWFI Web",
       "icon": "sx-white-soft:computer",
-      "action": {
-        "type": "open",
-        "data": {
-          "Page": "https://laurianttila.github.io/msx/data/example.json"
-        }
+      "data": "https://laurianttila.github.io/msx/data/example.json"
       }
     },
         {
