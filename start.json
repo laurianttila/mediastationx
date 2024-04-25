@@ -1,6 +1,6 @@
 {    
     "name": "Start Parameter Name",
     "version": "1.0.0",
-    "parameter": "menu:http://link.to.menu",
+    "parameter": "menu:https://laurianttila.github.io/mediastationx/menu.json",
     "welcome": "none"
 }
