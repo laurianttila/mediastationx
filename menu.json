@@ -1,12 +1,15 @@
 {
     "headline": "Thoughtworks",
     "menu": [{
-      "Title": "Thoughtworks Web",
-      "Action": {
-        "Type": "Open",
-        "Data": {
-          "URL": "https://www.thoughtworks.com"
-        },
+      "iitle": "Home",
+      "icon": "path_to_home_icon.png",
+      "action": {
+        "type": "open",
+        "data": {
+          "Page": "path_to_your_custom_home.html"
+        }
+      }
+    },
         {
             "icon": "movie",
             "label": "My Example Movies",
