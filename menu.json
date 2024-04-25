@@ -1,6 +1,13 @@
 {
     "headline": "Thoughtworks",
     "menu": [{
+      "Title": "Thoughtworks Web",
+      "Action": {
+        "Type": "Open",
+        "Data": {
+          "URL": "https://www.thoughtworks.com"
+        },
+        {
             "icon": "movie",
             "label": "My Example Movies",
             "data": {
@@ -24,7 +31,7 @@
             }
         }, {
             "icon": "music-note",
-            "label": "My Example Audios",
+            "label": "Lobby Content",
             "data": {
                 "type": "pages",
                 "template": {                   
