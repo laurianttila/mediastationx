@@ -1,8 +1,8 @@
 {
     "headline": "Thoughtworks",
     "menu": [{
-      "iitle": "TWFI Web",
-      "icon": "sx-white-soft:movie",
+      "title": "TWFI Web",
+      "icon": "sx-white-soft:computer",
       "action": {
         "type": "open",
         "data": {
