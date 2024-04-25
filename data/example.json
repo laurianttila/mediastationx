@@ -1,16 +1,16 @@
-{
+o{
     "type": "pages",
     "headline": "Types",
     "pages": [{    
             "items": [{
                     "type": "teaser",
                     "layout": "0,0,4,6",                   
-                    "badge": "Badge",                  
-                    "tag": "Tag",
+                    "badge": "Hello",                  
+                    "tag": "New",
                     "tagColor": "msx-red",
-                    "titleHeader": "Teaser Header",
-                    "title": "Teaser",
-                    "titleFooter": "Teaser Footer",                 
+                    "titleHeader": "Welcome to",
+                    "title": "Tw Helsinki",
+                    "titleFooter": "Enjoy!",                 
                     "image": "http://msx.benzac.de/img/test.jpg",
                     "imageFiller": "height-left"
                 }, {
