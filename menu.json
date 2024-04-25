@@ -1,5 +1,6 @@
 {
-    "headline": "Thoughtworks",
+    "logo": "https://www.thoughtworks.com/etc.clientlibs/thoughtworks/clientlibs/clientlib-site/resources/images/thoughtworks-logo.svg",   
+    "logoSize": "large", 
     "menu": [{
       "title": "TWFI Web",
       "icon": "sx-white-soft:computer",
