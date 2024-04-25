@@ -6,7 +6,7 @@
       "action": {
         "type": "open",
         "data": {
-          "Page": "https://www.thoughtworks.com/about-us/locations/finland"
+          "Page": "https://laurianttila.github.io/msx/data/example.json"
         }
       }
     },
