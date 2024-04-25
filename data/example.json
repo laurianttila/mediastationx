@@ -1,7 +1,6 @@
 {
     "type": "pages",
     "headline": "Types",
-    "focus": false,
     "pages": [{    
             "items": [{
                     "type": "teaser",
@@ -13,7 +12,8 @@
                     "title": "Tw Helsinki",
                     "titleFooter": "Enjoy!",                 
                     "image": "http://laurianttila.github.io/msx/data/tw_test.jpeg",
-                    "imageFiller": "height-left"
+                    "imageFiller": "height-left",
+                    "focus": false
                 }, {
                     "type": "button",
                     "layout": "10,0,2,2",
